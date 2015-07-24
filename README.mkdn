@@ -31,7 +31,8 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the Xperia Genesis trees, use a command like this:
 
-    repo init -u git://github.com/evildemon0s/XperiaGenesis.git
+    repo init -u git://github.com/evildemon0s/XperiaGenesis.git -b cm-12.1
+
 
 Then to sync up:
 
